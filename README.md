@@ -24,9 +24,10 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play ag
 
 ### 🛠️ Technologies Used
 
-HTML: Provides the structure of the web page.
-CSS: Styles the game and ensures it looks appealing.
+HTML: Provides the structure of the web page.  
+CSS: Styles the game and ensures it looks appealing.  
 JavaScript: Implements the game logic and user interactions.<br><br>
 
 Enjoy playing the Rock Paper Scissors game! 😊
+  
 Happy Coding!!!
